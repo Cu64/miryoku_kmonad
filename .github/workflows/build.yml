@@ -6,3 +6,9 @@ jobs:
     uses: ./.github/workflows/main.yml
     with:
       mode: '["build"]'
+      alphas: '["colemak"]'
+      nav: '["vi"]'
+      clipboard: '["default"]'
+      layers: '["default"]'
+      mapping: '["default"]'
+      kmonad_os: '["default"]'
