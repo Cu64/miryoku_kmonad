@@ -11,4 +11,4 @@ jobs:
       clipboard: '["default"]'
       layers: '["default"]'
       mapping: '["default"]'
-      kmonad_os: '["default"]'
+      kmonad_os: '["win"]'
